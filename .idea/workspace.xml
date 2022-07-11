@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e457def-9797-4932-942a-53efdb7d7168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/ultralesson/objectOrientation/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/firstGitHUB_Action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/firstGitHUB_Action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +143,7 @@
       <workItem from="1655222919664" duration="1969000" />
       <workItem from="1655271434398" duration="6861000" />
       <workItem from="1655295394219" duration="1922000" />
+      <workItem from="1657531655557" duration="168000" />
     </task>
     <servers />
   </component>
